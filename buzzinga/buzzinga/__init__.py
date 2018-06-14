@@ -1,0 +1,2 @@
+from .buzzinga import app
+
